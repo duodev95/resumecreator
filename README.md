@@ -1,3 +1,2 @@
 Resumecreator
-It is a Python based CRUD application. It can  make resume in seconds . 
-Suitable for all kinds of job-seekers.
+It is a CRUD based application. It can be used to make resumes in seconds . 
